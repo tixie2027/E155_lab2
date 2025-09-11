@@ -1,3 +1,8 @@
+// Tian Xie
+// tixie@hmc.edu
+// 9/10/2025
+// This is the segment switching module which does LED switching and also LED sum calculations.
+
 module digitdisplay (input logic [3:0] s1, 
 	 input logic [3:0] s2,
 	 input logic clk,
@@ -34,6 +39,7 @@ module digitdisplay (input logic [3:0] s1,
 	
 	
 endmodule
+
 
 
 
