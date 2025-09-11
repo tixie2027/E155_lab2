@@ -1,3 +1,8 @@
+// Tian Xie
+// tixie@hmc.edu
+// 9/10/2025
+// This is the top module that uses the segment switching module with a HSOSC
+
 module top (input logic [3:0] s1,
                   input logic [3:0] s2,
                   output logic led1, led2,
