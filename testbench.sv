@@ -1,3 +1,8 @@
+// Tian Xie
+// tixie@hmc.edu
+// 9/10/2025
+// This is the testbench that checks LED switching and the sum!
+
 `timescale 1ns/1ns
 
 module testbenchdigit();
